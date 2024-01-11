@@ -1,1 +1,1 @@
-# SchoolProject_Java
+# School Project written in Java

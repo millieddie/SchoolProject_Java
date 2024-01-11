@@ -1,1 +1,1 @@
-# School Project written in Java
+# School Projects written in Java
